@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Data\\Migrations\\20240805121332_enum-description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Caretta.Data\\Migrations\\20240805121332_enum-description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659264A6-847C-42F8-960B-E002942940D0}|Caretta.Business\\Caretta.Business.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.business\\contentdal\\handlers\\getallcontentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659264A6-847C-42F8-960B-E002942940D0}|Caretta.Business\\Caretta.Business.csproj|solutionrelative:caretta.business\\contentdal\\handlers\\getallcontentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.core\\enums\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|solutionrelative:caretta.core\\enums\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.core\\dto\\contentdto\\contentgetapprovaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|solutionrelative:caretta.core\\dto\\contentdto\\contentgetapprovaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.core\\dto\\contentdto\\contentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|solutionrelative:caretta.core\\dto\\contentdto\\contentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.core\\entity\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|solutionrelative:caretta.core\\entity\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.core\\enums\\approvalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5E5929-A583-4451-9EEC-76F195F1EE58}|Caretta.Core\\Caretta.Core.csproj|solutionrelative:caretta.core\\enums\\approvalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659264A6-847C-42F8-960B-E002942940D0}|Caretta.Business\\Caretta.Business.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.business\\concrete\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659264A6-847C-42F8-960B-E002942940D0}|Caretta.Business\\Caretta.Business.csproj|solutionrelative:caretta.business\\concrete\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16FEAE-F8BC-4673-88A1-2B19A0E22CB7}|Caretta.API\\Caretta.API.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.api\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16FEAE-F8BC-4673-88A1-2B19A0E22CB7}|Caretta.API\\Caretta.API.csproj|solutionrelative:caretta.api\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659264A6-847C-42F8-960B-E002942940D0}|Caretta.Business\\Caretta.Business.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.business\\abstract\\icontentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659264A6-847C-42F8-960B-E002942940D0}|Caretta.Business\\Caretta.Business.csproj|solutionrelative:caretta.business\\abstract\\icontentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659264A6-847C-42F8-960B-E002942940D0}|Caretta.Business\\Caretta.Business.csproj|c:\\users\\elresheph\\source\\repos\\caretta\\caretta.business\\contentdal\\handlers\\updatecontentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659264A6-847C-42F8-960B-E002942940D0}|Caretta.Business\\Caretta.Business.csproj|solutionrelative:caretta.business\\contentdal\\handlers\\updatecontentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240805121332_enum-description.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Data\\Migrations\\20240805121332_enum-description.cs",
+              "RelativeDocumentMoniker": "Caretta.Data\\Migrations\\20240805121332_enum-description.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Data\\Migrations\\20240805121332_enum-description.cs",
+              "RelativeToolTip": "Caretta.Data\\Migrations\\20240805121332_enum-description.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:13:32.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContentGetApprovalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Dto\\ContentDto\\ContentGetApprovalDto.cs",
+              "RelativeDocumentMoniker": "Caretta.Core\\Dto\\ContentDto\\ContentGetApprovalDto.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Dto\\ContentDto\\ContentGetApprovalDto.cs",
+              "RelativeToolTip": "Caretta.Core\\Dto\\ContentDto\\ContentGetApprovalDto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:00:37.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Enums\\EnumExtensions.cs",
+              "RelativeDocumentMoniker": "Caretta.Core\\Enums\\EnumExtensions.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Enums\\EnumExtensions.cs",
+              "RelativeToolTip": "Caretta.Core\\Enums\\EnumExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:59:09.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApprovalStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Enums\\ApprovalStatus.cs",
+              "RelativeDocumentMoniker": "Caretta.Core\\Enums\\ApprovalStatus.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Enums\\ApprovalStatus.cs",
+              "RelativeToolTip": "Caretta.Core\\Enums\\ApprovalStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:23:31.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IContentInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Business\\Abstract\\IContentInterface.cs",
+              "RelativeDocumentMoniker": "Caretta.Business\\Abstract\\IContentInterface.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Business\\Abstract\\IContentInterface.cs",
+              "RelativeToolTip": "Caretta.Business\\Abstract\\IContentInterface.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:56:55.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContentService.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Business\\Concrete\\ContentService.cs",
+              "RelativeDocumentMoniker": "Caretta.Business\\Concrete\\ContentService.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Business\\Concrete\\ContentService.cs",
+              "RelativeToolTip": "Caretta.Business\\Concrete\\ContentService.cs",
+              "ViewState": "AQIAABgCAAAAAAAAAAAAwCcCAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:56:19.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllContentsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Business\\ContentDAL\\Handlers\\GetAllContentsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Caretta.Business\\ContentDAL\\Handlers\\GetAllContentsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Business\\ContentDAL\\Handlers\\GetAllContentsQueryHandler.cs",
+              "RelativeToolTip": "Caretta.Business\\ContentDAL\\Handlers\\GetAllContentsQueryHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:01:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Dto\\ContentDto\\ContentGetDto.cs",
+              "RelativeDocumentMoniker": "Caretta.Core\\Dto\\ContentDto\\ContentGetDto.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Dto\\ContentDto\\ContentGetDto.cs",
+              "RelativeToolTip": "Caretta.Core\\Dto\\ContentDto\\ContentGetDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:00:57.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.API\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "Caretta.API\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.API\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "Caretta.API\\Controllers\\ContentController.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAwL4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:00:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateContentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Business\\ContentDAL\\Handlers\\UpdateContentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Caretta.Business\\ContentDAL\\Handlers\\UpdateContentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Business\\ContentDAL\\Handlers\\UpdateContentCommandHandler.cs",
+              "RelativeToolTip": "Caretta.Business\\ContentDAL\\Handlers\\UpdateContentCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:50:34.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Entity\\Content.cs",
+              "RelativeDocumentMoniker": "Caretta.Core\\Entity\\Content.cs",
+              "ToolTip": "C:\\Users\\Elresheph\\source\\repos\\Caretta\\Caretta.Core\\Entity\\Content.cs",
+              "RelativeToolTip": "Caretta.Core\\Entity\\Content.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:01:28.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\bin\Debug\net6.0\Caretta.Data.deps.json
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\bin\Debug\net6.0\Caretta.Data.runtimeconfig.json
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\bin\Debug\net6.0\Caretta.Data.dll
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\bin\Debug\net6.0\Caretta.Data.pdb
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\bin\Debug\net6.0\Caretta.Core.dll
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\bin\Debug\net6.0\Caretta.Core.pdb
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta.Data.csproj.AssemblyReference.cache
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta.Data.AssemblyInfoInputs.cache
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta.Data.AssemblyInfo.cs
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta.Data.csproj.CoreCompileInputs.cache
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta..E838E3AE.Up2Date
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta.Data.dll
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\refint\Caretta.Data.dll
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta.Data.pdb
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\Caretta.Data.genruntimeconfig.cache
+C:\Users\Elresheph\source\repos\Caretta\Caretta.Data\obj\Debug\net6.0\ref\Caretta.Data.dll
